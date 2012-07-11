@@ -59,6 +59,12 @@ local.properties
 *.tli
 *.tlh
 *.tmp
+*.cdr
+*.psd
+*.txt
+*.gitignore
+*.ai
+*.htaccess
 *.vspscc
 .builds
 *.dotCover
